@@ -1,2 +1,2 @@
 # BookStore
-Bookstore Project
+Bookstore TeamProject
