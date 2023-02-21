@@ -34,4 +34,5 @@ Client - 회원가입
 
 # 피드백
 원래 계획했던거보다 많은 기능들을 구현을 못했지만 프로젝트를 통해 협업이란게 중요하고 팀원들과 소통이 잘되어야 한다는것을 깨닫고 앞으론 소통을 중요시하며 개발을 해야겠다.
+<br>
 <img src="https://user-images.githubusercontent.com/97242213/220323929-7ba3383b-a99e-46e0-8fc8-8e3a873669a5.png" width="300" height="200">
