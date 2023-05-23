@@ -1,10 +1,6 @@
 # BookStore
 Bookstore TeamProject
 
-개발기간 22.06.07 ~ 22.07.11<br>
-팀원: 5명<br>
-프로젝트명: 북쳐핸썹
-
 # 개발 환경
 jQuery,Css,Jsp,Java,SQL,Html,JavaScript,Jstl
        
